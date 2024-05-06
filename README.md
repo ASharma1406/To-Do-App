@@ -1,8 +1,11 @@
-# React + Vite
+This is a to-do list app website
+This app is made using #React.js, #Bootstrap, #Tailwind CSS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+To run this project, the system should have the node js and npm priorily installed in your system.
 
-Currently, two official plugins are available:
+Install the dependencies: -> npm install
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Run the project: -> npm run dev
+
+To visit the site:
+  https://asharma1406.github.io/To-Do-App/
